@@ -1,0 +1,10 @@
+cornichons
+50
+safran
+6
+sel
+30
+poivre
+50
+sucre
+90.0
