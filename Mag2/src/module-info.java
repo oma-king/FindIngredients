@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author omahm
+ * @author Oussama MAHMOUD
  *
  */
 module Mag2 {
