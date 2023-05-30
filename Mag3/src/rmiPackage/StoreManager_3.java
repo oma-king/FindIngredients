@@ -10,7 +10,6 @@ public class StoreManager_3 extends UnicastRemoteObject implements Store{
 
 	protected StoreManager_3() throws RemoteException {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	@Override

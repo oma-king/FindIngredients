@@ -15,7 +15,6 @@ public class StoreManager_1 extends UnicastRemoteObject implements Store{
 
 	protected StoreManager_1() throws RemoteException {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	@Override
